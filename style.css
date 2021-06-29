@@ -1,6 +1,6 @@
 .body {
     background-color: #2e3440;
-    background-image: url("wallpaper.jpeg");
+    background-image: url("wallpaper.png");
     background-size: cover;
     background-repeat: space;
     font-family: "Lato", sans-serif;
@@ -60,7 +60,7 @@
     background: #4C566A;
     font-size: 15px;
     line-height: 1.5;
-    color: #2E3440;
+    color: #E5E9F0;
     font-size: 20px;
     min-width: 600px;
     width: 620px;
