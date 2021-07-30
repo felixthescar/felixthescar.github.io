@@ -24,12 +24,12 @@
     padding: 8px 8px 8px 32px;
     text-decoration: none;
     font-size: 25px;
-    color:white;
+    color:#8b8ea9;
     display: block;
     transition: 0.3s;
 }
 .sidenav a:hover {
-    color: gray;
+    color: #9d7dd1;
 }
 .sidenav .closebtn {
     position: absolute;
