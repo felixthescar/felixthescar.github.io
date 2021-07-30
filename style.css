@@ -39,7 +39,7 @@
     margin-left: 50px;
 }
 .inputBox {
-    border-radius:50px;
+    border: 5px, black;
     background: #7d809d;
     line-height: 1;
     color: white;
