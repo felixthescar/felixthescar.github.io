@@ -27,9 +27,16 @@
     color:#8b8ea9;
     display: block;
     transition: 0.3s;
+    border: 1px solid red;
+    padding: .4rem;
+    border-radius: 24px;
+    border-color: #282b37;
+    text-align: center;
 }
 .sidenav a:hover {
     color: #9d7dd1;
+    background: #282b37;
+    border-color: #9d7dd1;
 }
 .sidenav .closebtn {
     position: absolute;
@@ -37,6 +44,10 @@
     right: 25px;
     font-size: 36px;
     margin-left: 50px;
+    border: none;
+}
+.sidenav .spacer {
+    border: none;
 }
 .inputBox {
     border-style: none;
@@ -55,6 +66,11 @@
     left: 50%;
     margin-right: -50%;
     transform: translate(-50%, -50%);
+    cursor:pointer;
+}
+.inputBox:hover {
+    border-style:unset;
+    border-color: #9d7dd1;
 }
 .media {
     position:absolute;
