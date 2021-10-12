@@ -18,7 +18,7 @@
     overflow-x: hidden;
     transition: 0.5s;
     padding-top: 60px;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: "Consolas", "Lucida Console", "Courier New", monospace;
 }
 .sidenav a {
     padding: 8px 8px 8px 32px;
@@ -49,6 +49,8 @@
 }
 .sidenav .spacer {
     border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .inputBox {
     border-style: none;
