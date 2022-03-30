@@ -41,6 +41,8 @@
 }
 .sidenav a:hover {
     background: #282b37;
+    box-shadow: 0 0 20px ;
+    text-shadow: 0 0 7px #fff;
 }
 .sidenav .closebtn {
     position: absolute;
