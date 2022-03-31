@@ -15,6 +15,7 @@
     width: 0;
     position: fixed;
     background-color:var(--sidenav-bg-color);
+    opacity:80%;
     overflow: auto, hidden;
     transition: 0.5s;
     padding-top: 60px;

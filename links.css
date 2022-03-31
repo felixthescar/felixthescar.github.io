@@ -11,7 +11,7 @@ a[name="Bflix"] {
     color: #25D366;border-color: #25D366;
 }
 a[name="9Gag"] {
-    color: black;border-color: black;
+    color: #232030;border-color: #232030;
 }
 a[name="GitHub"] {
     color: whitesmoke;border-color: whitesmoke;
@@ -52,3 +52,35 @@ a[name="SPT"] {
 a[name="MCenter"] {
     color: #9d7dd1;border-color: #9d7dd1;
 }
+a[name="Twitch"] {
+    color: #9546aa;border-color: #9546aa;
+}
+a[name="Twitter"] {
+    color: #2289f7;border-color: #2289f7;
+}
+a[name="Tmblr"] {
+    color: #4349bc;border-color: #4349bc;
+}
+a[name="AK"] {
+    color: #5381d6;border-color: #5381d6;
+}
+a[name="KC"] {
+    color: #dce539;border-color: #dce539;
+}
+a[name="Proton"] {
+    color: #f7202e;border-color: #f7202e;
+}
+a[name="IG"] {
+    color: #d83cd6;border-color: #d83cd6;
+}
+a[name="LC"] {
+    color: whitesmoke;border-color: whitesmoke;
+}
+a[name="Steam"] {
+    color: #6b676a;border-color: #6b676a;
+}
+a[name="invizible"] {
+    color: none;border-color: none;
+    opacity: 0%;
+}
+
