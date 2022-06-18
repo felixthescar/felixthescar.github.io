@@ -79,6 +79,9 @@ a[name="LC"] {
 a[name="Steam"] {
     color: #6b676a;border-color: #6b676a;
 }
+a[name="Telegram"] {
+    color: #5454ff;border-color: #5454ff;
+}
 a[name="invizible"] {
     color: none;border-color: none;
     opacity: 0%;
